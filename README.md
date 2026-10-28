@@ -46,10 +46,10 @@ Proyecto_FleetLogix/
 ## Process Documentation
 Detailed architecture reports and design decisions are located in the `docs/` folder:
 
-- [1_Requerimientos](docs/1_Requerimientos.pdf)
-- [2_Diseno_SQL](docs/Avance_4_AWS_Analisis_Arquitectura.pdf)
-- [3_ETL_Modelado](docs/Avance_4_AWS_Analisis_Arquitectura.pdf)
-- [4_Arquitectura_AWS](docs/Avance_4_AWS_Analisis_Arquitectura.pdf)
+- [1_Requerimientos](docs/1_Requerimientos.md)
+- [2_Diseno_SQL](docs/2_Diseno_SQL.md)
+- [3_ETL_Modelado](docs/3_ETL_Modelado.md)
+- [4_Arquitectura_AWS](docs/4_Arquitectura_AWS.md)
 
 ## Execution and Deployment Guide
 
