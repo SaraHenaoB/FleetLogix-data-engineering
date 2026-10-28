@@ -1,0 +1,8 @@
+python-dotenv
+psycopg2-binary
+snowflake-connector-python
+pandas
+numpy
+Faker
+tqdm
+schedule
